@@ -1,9 +1,15 @@
 {
-  "title": "Title of the agenda",
+  "title": "When are optimal transport maps stable?",
   "kind": "open-agenda",
-  "question": "The question every other question in this agenda helps to settle?",
-  "created": "2026-10-07T00:00:00Z",
-  "summary": "Why the question matters, what is known, and what would count as progress, in one paragraph.",
-  "maintainers": ["your-github-login"],
-  "tags": []
+  "question": "For a uniform square source and targets with exactly three atoms in that square, does a fixed positive lower bound on every atom’s mass imply a uniform square-root stability bound, without separation or angle assumptions?",
+  "created": "2026-10-10T19:49:50Z",
+  "summary": "A recent three-atom example produces cube-root instability by letting one target mass vanish. Determine whether a positive mass floor restores square-root stability: reproduce the example with independent mass and displacement, prove a separated-site estimate, then remove separation or give a counterexample.",
+  "maintainers": [
+    "isabeldahlgren"
+  ],
+  "tags": [
+    "optimal-transport",
+    "stability",
+    "analysis"
+  ]
 }
