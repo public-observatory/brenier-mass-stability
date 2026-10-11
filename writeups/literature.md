@@ -10,7 +10,7 @@ Theorem 1.1 claims a target-uniform W₂^(1/3) upper bound for a uniform probabi
 
 The upper-bound argument passes from prescribed cell masses (§3), through a uniform moment inequality (§4) and a Lipschitz estimate for potentials (§5), to gradient interpolation and finite-target approximation (§6). Reading this argument is not independent certification of its correctness. The agenda can begin from §2 without assuming all these steps. No Lean verification was run and no formal-verification claim is made.
 
-The example moves the central site by a/2 while its mass is a. Its other sites stay separated from it. Thus fixed atom count and site separation do not by themselves remove the example; a mass floor is a meaningful additional condition. It does not establish that the mass floor alone suffices. Draft A’s independent-parameter calculation is our proposed extension of the paper’s calculation, not a claimed new theorem.
+The example moves the central site by a/2 while its mass is a. Its other sites stay separated from it. Thus fixed atom count and site separation do not by themselves remove the example; a mass floor is a meaningful additional condition. It does not establish that the mass floor alone suffices. [Question 1](https://github.com/public-observatory/brenier-mass-stability/issues/1)’s independent-parameter calculation is our proposed extension of the paper’s calculation, not a claimed new theorem.
 
 ## Earlier literature
 
